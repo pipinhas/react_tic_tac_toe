@@ -1,3 +1,7 @@
+# Importante
+
+Baixe os arquivos e então, no terminal bash, rode o comando `npm start` para acessar o código e poder jogar o jogo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
